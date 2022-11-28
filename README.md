@@ -1,2 +1,2 @@
-# RNAseq-
+# RNAseq
 RNAseq workflow using snakemake 
